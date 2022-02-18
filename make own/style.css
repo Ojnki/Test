@@ -15,7 +15,6 @@ h2{
 header{
   margin: 40px 10px;
   background: rgb(255, 255, 255);
-  margin: auto;
   padding: 30px;
   text-align: center;
 }
@@ -26,7 +25,7 @@ header{
 }
 .feature-box{
   display: flex;
-  margin: 50px 0px;
+  margin: 50px;
   background: white;
   padding: 20px;
   color: rgb(2, 2, 2);
@@ -40,7 +39,7 @@ header{
 footer{
   background: black;
   padding: 10px 20px;
-  margin: 40px 0px;
+  margin: 40px;
 }
 button{
   background: rosybrown;
@@ -67,9 +66,6 @@ nav li{
   display: inline-block;
   margin-left: 20px;
 }
-li:first-child{
-  margin-left: 0px;
-  }
 header .Logo a{
   background-image: url("Images/Logo.png");
   background-size: 300px;
