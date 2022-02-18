@@ -87,8 +87,6 @@ header .Logo a{
 width: 350px;
 display: inline-block;
 position: relative;
-display: flex;
-flex-direction: column;
 text-align: center;
 }
 .Features figure img{
